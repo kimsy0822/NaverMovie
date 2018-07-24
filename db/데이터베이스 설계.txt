@@ -1,0 +1,78 @@
+영화db movie
+id 장르 영화명 영화명(영문) 개봉일 상영시간 제작국가 등급 감독 출연
+
+회원db member
+회원id pass 이름 이메일
+
+리뷰 board
+글번호 제목 별점 내용 회원id 영화id 등록날짜
+
+
+
+데이터베이스 이름 : moviejsp
+계정이름 : jspdb
+비밀번호 : jsp
+데이터베이스(스키마)생성
+
+create database moviejsp;
+로컬호스트 접근 권한
+grant select, insert, update, delete, create, drop, alter
+on moviejsp.* to 'jspdb'@'localhost' identified by 'jsp';
+모든 서버 접근 권한
+grant select, insert, update, delete, create, drop, alter
+on moviejsp.* to 'jspdb'@'%' identified by 'jsp';
+
+
+
+
+
+--관리자계정
+create database moviejsp;
+
+grant select, insert, update, delete, create, drop, alter
+on moviejsp.* to 'jspid'@'localhost' identified by 'jsppass';
+
+grant select, insert, update, delete, create, drop, alter
+on moviejsp.* to 'jspid'@'%' identified by 'jsppass';
+
+
+use moviejsp;
+
+
+--영화테이블생성
+CREATE TABLE MOVIE(
+	MID VARCHAR(25) NOT NULL PRIMARY KEY,
+	GENRE VARCHAR(25) NOT NULL,
+    MNAME VARCHAR(50) NOT NULL,     
+	MNAME_E VARCHAR(50) NOT NULL,     
+	RDAY DATE,     
+	RTIME INT(6),     
+	COUNTRY VARCHAR(10),
+    RANK VARCHAR(10),
+    DIRECTOR VARCHAR(20),
+    CAST VARCHAR(100)
+);
+
+--회원테이블생성
+CREATE TABLE MEMBER(   
+	ID VARCHAR(20) PRIMARY KEY,
+    PWD VARCHAR(25) NOT NULL,
+	DNAME VARCHAR(30) NOT NULL,     
+	EMAIL VARCHAR(50)  
+); 
+
+--게시판테이블생성
+CREATE TABLE BOARD(   
+    NUM int unsigned not null auto_increment PRIMARY KEY,
+	TITLE VARCHAR(50) NOT NULL,     
+	SCORE int(2) NOT NULL,     
+    CONTENT VARCHAR(1000),
+    ID VARCHAR(20),
+	MID VARCHAR(25),
+    reg_date TIMESTAMP
+); 
+
+--외래키지정
+ALTER TABLE BOARD ADD CONSTRAINT FK_ID FOREIGN KEY(ID) REFERENCES MEMBER(ID);
+ALTER TABLE BOARD ADD CONSTRAINT FK_MID FOREIGN KEY(MID) REFERENCES MOVIE(MID); 
+

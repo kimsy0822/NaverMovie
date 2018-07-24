@@ -1,0 +1,30 @@
+   insert into member(ID, PWD, DNAME,EMAIL)
+    values('아이린','1234','배주현','hi@naver.com');
+   
+    insert into member(ID, PWD, DNAME,EMAIL)
+    values('가자','6789','홍길동','good@naver.com');
+    
+     insert into member(ID, PWD, DNAME,EMAIL)
+    values('가즈아','1111','이동현','abc@naver.com');
+    
+     insert into member(ID, PWD, DNAME,EMAIL)
+    values('똥싸다 지침','1110','이병헌','aaa@naver.com');
+    
+    
+       insert into member(ID, PWD, DNAME,EMAIL)
+    values('히트다 히트','1100','김형석','cbt@naver.com');
+    
+      insert into member(ID, PWD, DNAME,EMAIL)
+    values('사브래','2222','','cbt@naver.com');
+    
+     insert into member(ID, PWD, DNAME,EMAIL)
+    values('빠가사리','3333','','vcx@naver.com');
+    
+      insert into member(ID, PWD, DNAME,EMAIL)
+    values('돼지고릴라','3232','','hgf@naver.com');
+    
+      insert into member(ID, PWD, DNAME,EMAIL)
+    values('와라리탁','5353','','qweer@naver.com');
+    
+      insert into member(ID, PWD, DNAME,EMAIL)
+    values('소크라테스','7777','','hgf@naver.com');

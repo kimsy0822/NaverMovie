@@ -1,0 +1,231 @@
+#naver_common_editor .spelling_test{margin:13px 15px 20px 15px;padding:12px 11px 10px 11px;border:1px solid #e0e0e0;background-color:#fcfbf8}
+#naver_common_editor .spelling_text{float:left}
+#naver_common_editor .spelling_test span{color:#bc2a07}
+#naver_common_editor .spelling_test .notice{margin-top:5px;font-size:11px;color:#333}
+#naver_common_editor .spelling_test .notice span{margin-top:5px;padding-bottom:1px;font-size:11px;color:#333;background:url(http://imgmovie.naver.net/2007/img/editor/bg_correct.gif) left bottom repeat-x}
+#naver_common_editor .spelling_test .btns{float:right;padding:13px 0 0 0;border:0}
+#naver_common_editor .spelling_test .btns img{vertical-align:middle;cursor:pointer}
+#naver_common_editor .spelling_test .cboth{clear:both;padding:0;margin:0}
+#naver_common_editor .write_read{position:relative;margin:13px 15px 20px 15px;color:#333;line-height:1.5}
+#naver_common_editor .correct{padding-bottom:1px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_correct.gif) left bottom repeat-x}
+#naver_common_editor .spell_check{background-color:#fff;border-left:1px solid #c5c5c5;border-top:1px solid #c5c5c5;border-bottom:1px solid #9f9f9f;border-right:1px solid #9f9f9f}
+#naver_common_editor .spell_check .box_input{width:70px;height:19px;font-size:12px}
+#naver_common_editor .spell_check img{vertical-align:top}
+#naver_common_editor .spell_check ul{margin:2px}
+#naver_common_editor .spell_check li{margin:0;padding:2px 0 0 3px}
+#naver_common_editor .spell_check li.list_over{background-color:#eee}
+#naver_common_editor .spell_search{margin:0 0 6px 6px}
+#naver_common_editor .write_summary textarea{width:100%;height:300px;padding:13px 15px 20px 15px;border:0;overflow:auto;color:#444;line-height:1.5;scrollbar-face-color:#dee0df;scrollbar-highlight-color:#fff;scrollbar-shadow-color:#c2c2c2;scrollbar-3dlight-color:#e2e2e2;scrollbar-arrow-color:#2f2f2f;scrollbar-track-color:#f2f2f2;scrollbar-darkshadow-color:#fff;scrollbar-base-color:#fff}
+#naver_common_editor .quote01{margin:14px 40px 20px 40px;padding:1px 0 0 9px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_quote01.gif) repeat-y;color:#444;line-height:1.2}
+#naver_common_editor blockquote.quote01 p{color:#444;line-height:1.4}
+#naver_common_editor .quote02{margin:14px 40px 20px 40px;padding:1px 0 0 12px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_quote02.gif) left top no-repeat;color:#444;line-height:1.2}
+#naver_common_editor .quote02 p{background:url(http://imgmovie.naver.net/2007/img/editor/bg_quote02_2.gif) right top no-repeat;line-height:1.4}
+#naver_common_editor blockquote.quote02{color:#444;line-height:1.4}
+#naver_common_editor blockquote.quote02 p{background:url(http://imgmovie.naver.net/2007/img/editor/bg_quote02_2.gif) right bottom no-repeat;line-height:1.4}
+#naver_common_editor .quote03{margin:14px 40px 20px 40px;padding:11px 10px 10px 9px;border:1px solid #d9d9d9;color:#444;line-height:1.2}
+#naver_common_editor blockquote.quote03 p{color:#444;line-height:1.4}
+#naver_common_editor .quote04{margin:14px 40px 20px 40px;padding:11px 10px 10px 9px;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://imgmovie.naver.net/2007/img/editor/bg_quote_body01.png',sizingMethod='scale');width:100%;border:1px solid #d9d9d9;color:#444;line-height:1.2}
+html>body #naver_common_editor .quote04{width:auto;background:url('http://imgmovie.naver.net/2007/img/editor/bg_quote_body01.png') transparent}
+#naver_common_editor blockquote.quote04 p{margin:0;padding:0;color:#444;line-height:1.4}
+#naver_common_editor .quote05{margin:14px 40px 20px 40px;padding:11px 10px 10px 9px;border:2px solid #707070;color:#444;line-height:1.2}
+#naver_common_editor blockquote.quote05 p{color:#444;line-height:1.4}
+#naver_common_editor .quote06{margin:14px 40px 20px 40px;padding:11px 10px 10px 9px;border:3px solid #707070;color:#444;line-height:1.2}
+#naver_common_editor blockquote.quote06 p{color:#444;line-height:1.4}
+#naver_common_editor .quote07{margin:14px 40px 20px 40px;padding:11px 10px 10px 9px;border:1px dotted #b2b2b2;color:#444;line-height:1.2}
+#naver_common_editor blockquote.quote07 p{color:#444;line-height:1.4}
+#naver_common_editor .quote08{margin:14px 40px 20px 40px;padding:11px 10px 10px 9px;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://imgmovie.naver.net/2007/img/editor/bg_quote_body01.png',sizingMethod='scale');width:100%;border:1px dotted #b2b2b2;color:#444;line-height:1.2}
+html>body #naver_common_editor .quote08{width:auto;background:url('http://imgmovie.naver.net/2007/img/editor/bg_quote_body01.png') transparent}
+#naver_common_editor blockquote.quote08 p{margin:0;padding:0;color:#444;line-height:1.4}
+#naver_common_editor .summary_more{padding:4px 0 4px 0;border-top:1px solid #bfbfbf;border-bottom:1px solid #bfbfbf}
+#naver_common_editor .summary_more .box_input{width:87%;margin-left:5px;padding:4px 0 0 8px;height:22px;background-color:#f8f8f8;font-size:12px;color:#787878}
+#naver_common_editor .summary_more select{width:65px;font-size:12px}
+#naver_common_editor .shadow01{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://imgmovie.naver.net/2007/img/editor/shadow01.png',sizingMethod='scale');width:100%}
+html>body #naver_common_editor .shadow01{background:url('http://imgmovie.naver.net/2007/img/editor/shadow01.png') transparent}
+#naver_common_editor .shadow01_side{position:relative;top:-1px;left:-1px}
+#naver_common_editor .shadow02{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://imgmovie.naver.net/2007/img/editor/shadow02.png',sizingMethod='scale');width:100%}
+html>body #naver_common_editor .shadow02{background:url('http://imgmovie.naver.net/2007/img/editor/shadow02.png') transparent}
+#naver_common_editor .shadow02_side{position:relative;top:-1px;left:-1px}
+#naver_common_editor .rbox01{width:100%}
+#naver_common_editor .rbox01 .rbox01_t{height:8px;margin-left:2px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd01_bg.gif) right top no-repeat;font-size:0}
+#naver_common_editor .rbox01 .rbox01_t div{position:absolute;left:0;width:2px;height:8px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd01_bg.gif) no-repeat;font-size:0}
+#naver_common_editor .rbox01 .rbox01_bg{background:url(http://imgmovie.naver.net/2007/img/editor/rnd01_bg.gif) 0 -8px no-repeat}
+#naver_common_editor .rbox01 .rbox01_conts{margin-left:11px;padding:0 8px 0 0;background:url(http://imgmovie.naver.net/2007/img/editor/rnd01_bg.gif) right -8px no-repeat;text-align:left}
+#naver_common_editor .rbox01 .rbox01_b{height:7px;margin-left:2px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd01_bg.gif) right bottom no-repeat;font-size:0}
+#naver_common_editor .rbox01 .rbox01_b div{position:absolute;left:0;width:2px;height:7px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd01_bg.gif) left bottom no-repeat;font-size:0}
+#naver_common_editor .rbox02{width:100%}
+#naver_common_editor .rbox02 .rbox02_t{height:8px;margin-left:2px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd11.gif) right top no-repeat;font-size:0}
+#naver_common_editor .rbox02 .rbox02_t div{position:absolute;left:0;width:2px;height:8px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd11.gif) no-repeat;font-size:0}
+#naver_common_editor .rbox02 .rbox02_bg{background:url(http://imgmovie.naver.net/2007/img/editor/rnd11.gif) 0 -8px no-repeat}
+#naver_common_editor .rbox02 .rbox02_conts{margin-left:8px;padding:0 8px 0 0;background:url(http://imgmovie.naver.net/2007/img/editor/rnd11.gif) right -8px no-repeat;text-align:left}
+#naver_common_editor .rbox02 .rbox02_b{height:7px;margin-left:2px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd11.gif) right bottom no-repeat;font-size:0}
+#naver_common_editor .rbox02 .rbox02_b div{position:absolute;left:0;width:2px;height:7px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd11.gif) left bottom no-repeat;font-size:0}
+#naver_common_editor .rbox03{width:100%}
+#naver_common_editor .rbox03 .rbox03_t{height:2px;margin-left:2px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd11.gif) right top no-repeat;font-size:0}
+#naver_common_editor .rbox03 .rbox03_t div{position:absolute;left:0;width:2px;height:2px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd11.gif) no-repeat;font-size:0}
+#naver_common_editor .rbox03 .rbox03_bg{background:url(http://imgmovie.naver.net/2007/img/editor/rnd11.gif) 0 -8px no-repeat}
+#naver_common_editor .rbox03 .rbox03_conts{margin-left:3px;padding:0 3px 0 0;background:url(http://imgmovie.naver.net/2007/img/editor/rnd11.gif) right -8px no-repeat;text-align:left;zoom:1}
+#naver_common_editor .rbox03 .rbox03_b{height:3px;margin-left:2px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd11.gif) right bottom no-repeat;font-size:0}
+#naver_common_editor .rbox03 .rbox03_b div{position:absolute;left:0;width:2px;height:3px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd11.gif) left bottom no-repeat;font-size:0}
+#naver_common_editor h4.subject{position:relative}
+#naver_common_editor h4.subject span{position:absolute;right:7px;top:0}
+#naver_common_editor .box_line{position:relative;margin-right:3px;padding:10px 0 8px 12px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_line01.gif);border-left:1px solid #dbdddb;border-right:1px solid #b1b6b1}
+*html #naver_common_editor .box_line{position:relative;width:100%;margin-right:3px;padding:10px 0 8px 10px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_line01.gif);border-left:1px solid #dbdddb;border-right:1px solid #b1b6b1}
+#naver_common_editor .box_line_btm{height:3px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd02_bl.gif) left top no-repeat;font-size:0}
+#naver_common_editor .box_line_btm div{height:3px;margin:0 3px 0 3px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd02_br.gif) right top repeat-x;font-size:0}
+#naver_common_editor .box_line .ul_bg{position:absolute;right:-1px;top:-2px;width:2px;height:3px;background:url(http://imgmovie.naver.net/2007/img/editor/tab_bg02.gif) no-repeat;font-size:0}
+#naver_common_editor .btn{text-align:center;margin-top:7px}
+#naver_common_editor .btn02{text-align:center;margin-top:3px;padding-bottom:2px}
+#naver_common_editor label.tit{float:left;font-size:11px;margin:5px 3px 0 0;letter-spacing:-1px}
+#naver_common_editor .box_input{padding:2px;height:19px;font-size:11px;border-left:1px solid #acacac;border-top:1px solid #acacac;border-bottom:1px solid #dadada;border-right:1px solid #dadada}
+#naver_common_editor .searchkeyword_items{width:244px}
+#naver_common_editor .rbox01_bt{height:30px;padding:8px 0 0 6px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd01_bg.gif) right top no-repeat}
+html>body #naver_common_editor .rbox01_bt{height:22px}
+#naver_common_editor .rbox01_bt div{position:absolute;top:0;left:0;width:2px;height:30px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd01_bg.gif) left top no-repeat}
+#naver_common_editor .rbox01 .rbox01_bbg{background:url(http://imgmovie.naver.net/2007/img/editor/rnd01_bg.gif) left -30px no-repeat;text-align:left}
+#naver_common_editor .rbox01 .rbox01_conts{margin:0 0 0 11px;padding:0 8px 0 0;background:url(http://imgmovie.naver.net/2007/img/editor/rnd01_bg.gif) right -30px no-repeat;text-align:left}
+#naver_common_editor .searchkeyword_items .tab_menu{width:100%;padding-top:10px;margin:0 3px 0 0!important;background:url(http://imgmovie.naver.net/2007/img/editor/tab_bg01.gif) left bottom repeat-x}
+html>body #naver_common_editor .searchkeyword_items .tab_menu{width:auto}
+#naver_common_editor .searchkeyword_items li{margin-bottom:5px}
+#naver_common_editor .replacekeyword_items{width:244px}
+#naver_common_editor .replacekeyword_items .tab_menu{width:100%;padding-top:10px;margin:0 3px 0 0;background:url(http://imgmovie.naver.net/2007/img/editor/tab_bg01.gif) left bottom repeat-x}
+html>body #naver_common_editor .replacekeyword_items .tab_menu{width:auto}
+#naver_common_editor .replacekeyword_items li{margin-bottom:5px}
+#naver_common_editor .scharinsertion_items{width:435px}
+#naver_common_editor .scharinsertion_items .kind{position:relative;padding-top:4px;color:#444}
+#naver_common_editor .scharinsertion_items .kind span.close{position:absolute;right:7px;top:0}
+#naver_common_editor .scharinsertion_items .kind span.bar{margin:0 1px 0 0;color:#d4d4d4}
+#naver_common_editor .scharinsertion_items .kind a{color:#444}
+#naver_common_editor .scharinsertion_items .kind a:hover{color:#004790}
+#naver_common_editor .scharinsertion_items .kind a.this_on{color:#004790;font-weight:bold;letter-spacing:-1px}
+#naver_common_editor .scharinsertion_items table{clear:both;margin:5px 0 0 0;background-color:#dfe1de;table-layout:fixed}
+#naver_common_editor .scharinsertion_items td{height:18px;background-color:#fff;color:#000}
+html>body #naver_common_editor .scharinsertion_items td{height:19px;background-color:#fff;color:#000}
+#naver_common_editor .scharinsertion_items div.code_over{border:2px solid #27c11a}
+#naver_common_editor .scharinsertion_items div.code_off{border:2px solid #fff}
+#naver_common_editor .scharinsertion_items .insert{padding:9px 0 2px 0}
+#naver_common_editor .scharinsertion_items label{float:left;margin:5px 3px 0 0;letter-spacing:-1px}
+#naver_common_editor .scharinsertion_items .insert img{vertical-align:top;margin-bottom:2px}
+#naver_common_editor .tool_items{width:113px;text-align:center}
+#naver_common_editor .tool_items .tool_top{overflow:hidden;width:100%;background:url(http://imgmovie.naver.net/2007/img/editor/rnd03_t.gif) left top no-repeat}
+#naver_common_editor .tool_items .tool_btm{clear:both;margin-top:5px;padding-bottom:2px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd03_b.gif) left bottom repeat-y}
+#naver_common_editor .tool_items img{vertical-align:top;margin-bottom:3px}
+#naver_common_editor .tool_items div span{display:block}
+#naver_common_editor .tool_items_layer{text-align:left}
+#naver_common_editor .tool_items_layer img{vertical-align:top;margin:3px 0 2px 0}
+#naver_common_editor .tool_items_layer .rbox03_conts{clear:both;padding:0 0 0 1px}
+#naver_common_editor .emoticon_items{width:297px}
+#naver_common_editor .emoticon_items table.list{clear:both;margin:5px 0 0 0;background-color:#dfe1de;table-layout:fixed}
+#naver_common_editor .emoticon_items table.list td{height:27px;background-color:#fff}
+#naver_common_editor .emoticon_items table.list img{vertical-align:top;margin:2px}
+#naver_common_editor .emoticon_items .kind{position:relative;padding-top:4px;color:#444}
+#naver_common_editor .emoticon_items .kind span.close{position:absolute;right:7px;top:0}
+#naver_common_editor .emoticon_items .kind span.bar{margin:0 1px 0 0;color:#d4d4d4}
+#naver_common_editor .emoticon_items .kind a{color:#444}
+#naver_common_editor .emoticon_items .kind a:hover{color:#004790}
+#naver_common_editor .emoticon_items .kind a.this_on{color:#004790;font-weight:bold;letter-spacing:-1px}
+#naver_common_editor .emoticon_items .code_over{border:2px solid #27c11a}
+#naver_common_editor .emoticon_items .code_off{border:2px solid #fff}
+#naver_common_editor .emoticon_items .paging{margin-top:5px;padding-bottom:4px;text-align:center}
+#naver_common_editor .fontcolor_top_items{width:220px}
+#naver_common_editor .fontcolor_top_items table{clear:both;table-layout:fixed;margin-left:-1px}
+#naver_common_editor .fontcolor_top_items td{width:11px;height:11px}
+#naver_common_editor .fontcolor_top_items img{_margin:-1px 0 1px}
+#naver_common_editor .fontbackgroundcolor_top_items{width:220px}
+#naver_common_editor .fontbackgroundcolor_top_items table.bg{clear:both;margin-bottom:6px}
+#naver_common_editor .fontbackgroundcolor_top_items table.bg td{width:69px;height:21px;border-right:5px solid #fbfbfb;border-bottom:2px solid #fbfbfb}
+#naver_common_editor .fontbackgroundcolor_top_items table.bg td div{padding:3px 0 0 3px;font-size:11px}
+#naver_common_editor .fontbackgroundcolor_top_items table.bg td.last{width:65px;height:19px;border-right:0;border-bottom:2px solid #fbfbfb}
+#naver_common_editor .fontbackgroundcolor_top_items table.color{clear:both;table-layout:fixed;margin-left:-1px}
+#naver_common_editor .fontbackgroundcolor_top_items table.color td{width:11px;height:11px}
+#naver_common_editor .fontbackgroundcolor_top_items img{_margin:-1px 0 1px}
+#naver_common_editor .inserttable_items{width:244px}
+#naver_common_editor .inserttable_items .make{width:222px;margin-left:3px;padding-top:3px}
+#naver_common_editor fieldset{margin:0;padding-left:10px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd05_t.gif) repeat-y;border:0}
+#naver_common_editor legend{margin-left:9px;padding-right:5px;background-color:#fbfbfb;color:#404040}
+#naver_common_editor .inserttable_items .make_btm{clear:both;width:222px;height:2px;margin-bottom:4px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd05_b.gif) left bottom no-repeat;font-size:0}
+#naver_common_editor .inserttable_items .make table{margin:4px 0 5px 0}
+#naver_common_editor .inserttable_items .make .tit{font-size:11px;padding-top:3px;letter-spacing:-1px}
+#naver_common_editor .inserttable_items .make .tit02{font-size:11px;padding-top:7px;letter-spacing:-1px}
+#naver_common_editor .inserttable_items .control{float:left;width:48px;margin-left:4px;border-left:1px solid #818181;border-top:1px solid #818181;border-bottom:1px solid #dadada;border-right:1px solid #dadada;background-color:#fff}
+#naver_common_editor .inserttable_items .control span{float:left;right:0;top:0;width:15px}
+#naver_common_editor .inserttable_items .control span img{vertical-align:top}
+#naver_common_editor .inserttable_items .control input{float:left;width:27px;height:15px;border:0;background-color:#fff;margin:0 0 -1px 0;padding:2px;font-size:11px}
+html>body #naver_common_editor .inserttable_items .control input{width:33px;margin-bottom:0;padding:2px 0 0 3px}
+#naver_common_editor .inserttable_items .control span img{vertical-align:top}
+#naver_common_editor .inserttable_items .color_set{width:100%;padding-top:3px}
+#naver_common_editor .inserttable_items .color_box{float:left;left:4px;top:0;border:1px solid #c8c9c6}
+#naver_common_editor .inserttable_items span.color{display:block;width:14px;height:14px;margin:2px}
+html>body #naver_common_editor .inserttable_items span.color{float:left;width:14px;height:14px;margin:2px}
+#naver_common_editor .inserttable_items .box_input{float:left;padding-top:4px;margin-left:3px}
+#naver_common_editor .pickercolor_items{width:220px;margin-top:-1px}
+#naver_common_editor .pickercolor_items .color_set{position:relative;width:100%;height:30px;margin:0}
+#naver_common_editor .pickercolor_items .color_set span{position:absolute;right:-1px;top:0}
+#naver_common_editor .pickercolor_items .color_set .color_box{position:absolute;left:0;top:0;border:1px solid #c8c9c6}
+#naver_common_editor .pickercolor_items .color_set .color_box span.color{position:static;float:left;display:inline;width:67px;height:14px;margin:2px}
+#naver_common_editor .pickercolor_items .box_input{position:absolute;left:75px;top:0;padding-top:4px}
+#naver_common_editor .pickercolor_items .btn01{position:absolute;right:23px;top:0;cursor:pointer;cursor:hand}
+#naver_common_editor .pickercolor_items .webcolor01{width:201px;margin:0 0 6px 0;border:1px solid #c5cad0}
+#naver_common_editor .pickercolor_items .webcolor02{width:201px;border:1px solid #c5cad0}
+#naver_common_editor .fontname_items{width:85px;_margin-left:-7px}
+#naver_common_editor .fontname_items ul{margin:0;padding:2px 0 2px 0}
+#naver_common_editor .fontname_items li{margin:0;padding:4px 0 1px 3px;text-align:left}
+#naver_common_editor .fontname_items li.list_over{background-color:#c1f471}
+#naver_common_editor .fontname_items li.dotum{font-family:dotum}
+#naver_common_editor .fontname_items li.gulim{font-family:gulim}
+#naver_common_editor .fontname_items li.batang{font-family:gbatang}
+#naver_common_editor .fontname_items li.gungsuh{font-family:gungsuh}
+#naver_common_editor .fontname_items li.arial{font-family:arial}
+#naver_common_editor .fontname_items li.tahoma{font-family:tahoma}
+#naver_common_editor .fontname_items li.timesnew{font-family:timesnew}
+#naver_common_editor .fontname_items li.verdana{font-family:verdana}
+#naver_common_editor .fontsize_items{width:308px}
+#naver_common_editor .fontsize_items ul{margin:0;padding:2px 0 0 0}
+#naver_common_editor .fontsize_items li{margin:0;padding:4px 0 1px 3px;text-align:left;color:#000}
+#naver_common_editor .fontsize_items li.list_over{background-color:#c1f471}
+#naver_common_editor .fontsize_items li.size01{font-size:7pt}
+#naver_common_editor .fontsize_items li.size02{font-size:8pt}
+#naver_common_editor .fontsize_items li.size03{font-size:9pt}
+#naver_common_editor .fontsize_items li.size04{font-size:10pt}
+#naver_common_editor .fontsize_items li.size05{font-size:11pt}
+#naver_common_editor .fontsize_items li.size06{font-size:12pt}
+#naver_common_editor .fontsize_items li.size07{font-size:14pt}
+#naver_common_editor .fontsize_items li.size08{font-size:18pt}
+#naver_common_editor .fontsize_items li.size09{font-size:24pt}
+#naver_common_editor .fontsize_items li.size10{font-size:36pt}
+#naver_common_editor .lineheight_items{width:53px}
+#naver_common_editor .lineheight_items ul{margin:0;padding:2px 0 0 0}
+#naver_common_editor .lineheight_items li{margin:0;padding:4px 0 1px 13px;text-align:left;color:#000}
+#naver_common_editor .lineheight_items li.list_over{background-color:#c1f471}
+#naver_common_editor .lineheight_items li.list_select{background:url(http://imgmovie.naver.net/2007/img/editor/ico_select.gif) 3px 7px no-repeat}
+#naver_common_editor .url_items{width:233px}
+#naver_common_editor .url_items .make{clear:both;width:212px;margin:0;padding-top:4px}
+#naver_common_editor .url_items fieldset{margin:0;padding-left:9px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd07_t.gif) repeat-y;border:0}
+#naver_common_editor .url_items legend{margin:0;padding-right:5px;background-color:#fbfbfb;color:#404040}
+#naver_common_editor .url_items .hyperlink{clear:both;margin:8px 0 10px 3px}
+#naver_common_editor .url_items .box_input{width:187px;height:18px}
+#naver_common_editor .url_items .make_btm{clear:both;width:212px;height:2px;margin-bottom:4px;background:url(http://imgmovie.naver.net/2007/img/editor/rnd07_b.gif) left bottom no-repeat;font-size:0}
+#naver_common_editor .quote_items{width:304px}
+#naver_common_editor .quote_items ul{overflow:hidden;width:100%}
+#naver_common_editor .quote_items li{position:relative;float:left;margin-right:2px}
+#naver_common_editor .quote_items li.last{margin-right:0}
+#naver_common_editor .quote_items li img{border:1px solid #cdcecc;cursor:pointer;cursor:hand}
+#naver_common_editor .quote_items li a{display:block}
+#naver_common_editor .quote_items li a:hover{width:30px;height:32px;border:2px solid #27c11a;overflow:hidden}
+#naver_common_editor .quote_items li a:hover img{position:relative;top:-2px;left:-2px}
+#naver_common_editor .quote_items li a.list_over{width:30px;height:32px;border:2px solid #27c11a;overflow:hidden}
+#naver_common_editor .quote_items li a.list_over img{position:relative;top:-2px;left:-2px}
+*html #naver_common_editor .quote_items li a:hover{width:34px;height:36px}
+*html #naver_common_editor .quote_items li a.list_over{width:34px;height:36px}
+#naver_common_editor table.Nnavi{height:11px;border-collapse:collapse;margin:0 auto;text-align:center}
+#naver_common_editor table.Nnavi td{padding:0;border-right:1px solid #ddd}
+#naver_common_editor table.Nnavi td.pgR{border-right:0}
+#naver_common_editor table.Nnavi a{font-size:12px;font-family:u-18227 u-3,Dotum,AppleGothic,sans-serif;text-decoration:none;display:block;padding:2px 8px 0 7px;color:#333;font-weight:bold}
+#naver_common_editor table.Nnavi a:hover{background-color:#f7f7f7}
+#naver_common_editor table.Nnavi .pgL a:hover{background-color:#fff}
+#naver_common_editor table.Nnavi .pgR a:hover{background-color:#fff}
+#naver_common_editor table.Nnavi .paging_on{color:#ff7635}
+#naver_common_editor table.Nnavi .paging_on a{color:#ff7635}
+#naver_common_editor table.Nnavi .paging_on a:visited{color:#ff7635}
+#naver_common_editor *html body table.Nnavi a{width:1em}
+#naver_common_editor table.Nnavi .pgL a{width:auto}
+#naver_common_editor table.Nnavi .pgR a{width:auto}

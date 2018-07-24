@@ -1,0 +1,126 @@
+#naver_common_editor{margin:0 auto;padding:0 0 20px 0;text-align:left}
+#naver_common_editor div,#naver_common_editor ul,#naver_common_editor td,#naver_common_editor input,#naver_common_editor textarea{font-family:u-18227 u-3,Dotum,AppleGothic,sans-serif;font-size:12px;color:#333}
+#naver_common_editor select{font-size:12px;color:#333}
+#naver_common_editor img{border:0}
+#naver_common_editor a:link{text-decoration:none}
+#naver_common_editor a:visited{text-decoration:none}
+#naver_common_editor a:active{text-decoration:underline}
+#naver_common_editor a:hover{text-decoration:underline}
+#naver_common_editor .u{text-decoration:underline}
+#naver_common_editor a.u:link{text-decoration:underline}
+#naver_common_editor a.u:visited{text-decoration:underline}
+#naver_common_editor a.u:hover{text-decoration:underline}
+#naver_common_editor a.u:active{text-decoration:underline}
+#naver_common_editor .nu{text-decoration:none}
+#naver_common_editor a.nu:link{text-decoration:none}
+#naver_common_editor a.nu:visited{text-decoration:none}
+#naver_common_editor a.nu:hover{text-decoration:none}
+#naver_common_editor a.nu:active{text-decoration:none}
+#naver_common_editor{margin:0 auto;padding:0 0 20px 0;text-align:left}
+#naver_common_editor p,#naver_common_editor ul,#naver_common_editor li,#naver_common_editor dl,#naver_common_editor dt,#naver_common_editor dd,#naver_common_editor h3,#naver_common_editor h4,#naver_common_editor form{margin:0;padding:0}
+#naver_common_editor li{list-style-type:none}
+#naver_common_editor h3,#naver_common_editor h4{font-size:12px}
+#naver_common_editor em{font-style:normal}
+#naver_common_editor ul.subject li{position:relative;width:100%;margin:0 0 9px 0}
+#naver_common_editor ul.subject .item{position:absolute;left:0;top:5px;width:68px;font-weight:bold;color:#444;font-size:12px}
+#naver_common_editor ul.subject .field{_width:100%;padding:0 0 0 68px}
+#naver_common_editor ul.post{padding:19px 0 40px 0}
+*html #naver_common_editor ul.post{float:left}
+#naver_common_editor ul.post li{position:relative;width:100%;margin:0 0 15px 0}
+#naver_common_editor ul.post .item{position:absolute;left:0;top:4px;width:68px;font-weight:bold;color:#464646;font-size:12px}
+#naver_common_editor ul.post .field{_width:100%;padding:0 0 0 68px}
+#naver_common_editor ul.post .file_list{width:auto;margin-left:68px;padding:0;border:1px solid #dfdfdf}
+#naver_common_editor ul.file_txt{overflow:hidden;clear:both}
+#naver_common_editor ul.file_txt li{position:relative;width:100%;margin:0;padding:6px 0 3px 23px;background:url(http://imgmovie.naver.net/2007/img/editor/ico_file.gif) 7px 7px no-repeat}
+html>body #naver_common_editor ul.file_txt li{width:auto}
+#naver_common_editor ul.file_txt li.bgcolor{background-color:#f8f8f8}
+#naver_common_editor ul.file_txt li a{color:#333}
+#naver_common_editor ul.file_txt li span{position:absolute;right:5px;top:5px;font-size:9px;font-family:verdana;color:#3d3d3d}
+#naver_common_editor ul.file_txt li span img{vertical-align:middle;margin-top:1px}
+#naver_common_editor ul.file_thumb{overflow:hidden;width:100%;padding-left:7px;border-top:1px solid #dfdfdf;background-color:#f8f8f8}
+#naver_common_editor ul.file_thumb02{overflow:hidden;width:100%;padding-left:7px;background-color:#fff}
+html>body #naver_common_editor ul.file_thumb,html>body #naver_common_editor ul.file_thumb02{width:auto}
+#naver_common_editor ul.file_thumb li,#naver_common_editor ul.file_thumb02 li{float:left;width:50px;margin:0 8px 0 0;padding:8px 0 6px 0;background:0;white-space:nowrap}
+#naver_common_editor ul.file_thumb li p,#naver_common_editor ul.file_thumb02 li p{margin-bottom:2px}
+#naver_common_editor ul.file_thumb li p img,#naver_common_editor ul.file_thumb02 li p img{vertical-align:top;border:1px solid #d8d8d8}
+#naver_common_editor ul.file_thumb li span,#naver_common_editor ul.file_thumb02 li span{overflow:hidden;font-size:9px;font-family:verdana;color:#3d3d3d;letter-spacing:-1px}
+#naver_common_editor ul.file_thumb li span img,#naver_common_editor ul.file_thumb02 li span img{vertical-align:middle;margin:1px 0 3px -1px;_margin:1px 0 0 -1px}
+#naver_common_editor ul.file_thumb li p span{position:absolute;display:block;width:18px;height:19px;top:20px;left:1px}
+#naver_common_editor ul.file_thumb li p .movie{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://imgmovie.naver.net/2007/img/editor/ccs_01.png',sizingMethod='crop')}
+html>body #naver_common_editor ul.file_thumb li p .movie{background:url('http://imgmovie.naver.net/2007/img/editor/ccs_01.png') no-repeat}
+#naver_common_editor ul.file_thumb li p .layout{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://imgmovie.naver.net/2007/img/editor/ccs_02.png',sizingMethod='crop')}
+html>body #naver_common_editor ul.file_thumb li p .layout{background:url('http://imgmovie.naver.net/2007/img/editor/ccs_02.png') no-repeat}
+#naver_common_editor ul.file_thumb li p .array{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://imgmovie.naver.net/2007/img/editor/ccs_03.png',sizingMethod='crop')}
+html>body #naver_common_editor ul.file_thumb li p .array{background:url('http://imgmovie.naver.net/2007/img/editor/ccs_03.png') no-repeat}
+#naver_common_editor ul.file_thumb li p .connection{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://imgmovie.naver.net/2007/img/editor/ccs_04.png',sizingMethod='crop')}
+html>body #naver_common_editor ul.file_thumb li p .connection{background:url('http://imgmovie.naver.net/2007/img/editor/ccs_04.png') no-repeat}
+#naver_common_editor ul.file_thumb li p .slide{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://imgmovie.naver.net/2007/img/editor/ccs_05.png',sizingMethod='crop')}
+html>body #naver_common_editor ul.file_thumb li p .slide{background:url('http://imgmovie.naver.net/2007/img/editor/ccs_05.png') no-repeat}
+#naver_common_editor .amount{overflow:hidden;float:right;margin:7px 0 2px 0;font-size:9px;font-family:verdana;color:#3d3d3d}
+#naver_common_editor .amount span{float:left;display:inline;color:#333}
+#naver_common_editor .amount .section{margin:0 3px 0 3px;color:#ccc}
+#naver_common_editor .amount .total{color:#666}
+#naver_common_editor .amount .graph{float:left;display:inline;width:82px;height:11px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_amount.gif) no-repeat;margin:3px 4px 0 4px;padding:0}
+#naver_common_editor .amount .graph span{float:left;display:inline;height:11px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_amount02.gif) no-repeat}
+#naver_common_editor table.wrap{border:1px solid #c2c2c2;border-top:0}
+#naver_common_editor .tool_bg{position:relative;height:35px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_tool_line.gif) repeat-x}
+#naver_common_editor .tool_bg img{vertical-align:top}
+#naver_common_editor .wrap .item{height:28px;padding:7px 0 0 7px}
+#naver_common_editor .wrap .item span{position:relative}
+#naver_common_editor .wrap .family{margin:0}
+#naver_common_editor .wrap .size{margin:0}
+#naver_common_editor .wrap .make01{margin-left:1px}
+#naver_common_editor .wrap .make02{margin:0}
+#naver_common_editor .wrap .make03{margin-left:1px}
+#naver_common_editor .wrap .make04{margin-left:1px}
+#naver_common_editor .wrap .make05{margin:0}
+#naver_common_editor .wrap .make06{margin-left:1px}
+#naver_common_editor .wrap .url{margin-left:1px}
+#naver_common_editor .wrap .do{margin-left:1px}
+#naver_common_editor .wrap .emo{margin:0 9px 0 1px}
+#naver_common_editor .wrap .emo02{margin-left:1px}
+#naver_common_editor .wrap .more_tool{position:absolute;left:0}
+html>body #naver_common_editor .wrap .more_tool{right:12px}
+#naver_common_editor .wrap .tool_option{padding-top:5px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_tool_line02.gif) repeat-x}
+#naver_common_editor .wrap .tool_option2{padding-top:5px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_tool_line05.gif) repeat-x}
+#naver_common_editor .wrap .tool_option3{padding-top:5px;font-weight:bold}
+#naver_common_editor .wrap .option{float:left;display:inline;margin:2px 0 0 4px}
+#naver_common_editor .wrap .option2{float:left;display:inline;margin:2px 0 0 7px}
+#naver_common_editor .wrap .tool_option input{vertical-align:middle}
+#naver_common_editor table.wrap textarea{width:100%;height:400px;padding:13px 15px 20px 15px;border:0;overflow:auto;color:#444;line-height:1.5;scrollbar-face-color:#dee0df;scrollbar-highlight-color:#fff;scrollbar-shadow-color:#c2c2c2;scrollbar-3dlight-color:#e2e2e2;scrollbar-arrow-color:#2f2f2f;scrollbar-track-color:#f2f2f2;scrollbar-darkshadow-color:#fff;scrollbar-base-color:#fff;background:transparent}
+html>body #naver_common_editor table.wrap textarea{padding:0}
+#naver_common_editor .boxlayer{position:absolute;left:50%;top:355px;_top:175px;width:326px;margin-left:-155px}
+#naver_common_editor .box01{position:relative;padding:15px;background-color:#FFF;border:2px solid #777;text-align:center}
+#naver_common_editor .box02{position:relative;padding:15px 29px 5px 19px;background-color:#FFF;border:2px solid #777;text-align:center}
+#naver_common_editor .btn_close{position:absolute;top:9px;right:9px}
+#naver_common_editor .txt_01{padding:0 0 5px 0;margin:0;line-height:1.5;word-wrap:break-word;word-break:break-all}
+#naver_common_editor .txt_01 a{color:#004790}
+#naver_common_editor .txt_02{padding:0 0 5px 0;margin:0;font-size:11px;color:#888;line-height:1.5}
+#naver_common_editor .box02 .txt_02{padding:0 0 5px 0;margin:0;font-size:11px;color:#888;line-height:1.5;text-align:center}
+#naver_common_editor .btns{padding-top:9px;border-top:1px solid #e8e8e8}
+#naver_common_editor .b_tool_bg{height:2px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_tab1.gif) repeat-x}
+#naver_common_editor .b_tool_bg2{height:2px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_tab2.gif) repeat-x}
+#naver_common_editor td.read{width:100%;background:url(http://imgmovie.naver.net/2007/img/editor/bg_rtextarea.gif) right repeat-y}
+#naver_common_editor td.attach{width:75px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_attach.gif) repeat-y}
+#naver_common_editor td.attach h4{width:60px;margin:9px 0 0 8px;padding:0 0 6px 2px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_attach02.gif) bottom repeat-x;color:#444;font-weight:bold;letter-spacing:-1px}
+#naver_common_editor td.attach ul{margin:8px 0 0 1px;padding-bottom:7px;background:url(http://imgmovie.naver.net/2007/img/editor/bg_attach03.gif) bottom no-repeat}
+#naver_common_editor td.attach li{width:58px;margin:0 7px 6px 10px;font-size:11px}
+#naver_common_editor td.attach li.photo{padding-top:1px;background:url(http://imgmovie.naver.net/2007/img/editor/ico_attach_photo.gif) no-repeat}
+#naver_common_editor td.attach li.avi{padding-top:2px;background:url(http://imgmovie.naver.net/2007/img/editor/ico_attach_avi2.gif) no-repeat}
+#naver_common_editor td.attach li.file{padding-top:4px;background:url(http://imgmovie.naver.net/2007/img/editor/ico_attach_file.gif) 0 3px no-repeat}
+#naver_common_editor td.attach li.map{padding-top:4px;background:transparent url(http://imgmovie.naver.net/2007/img/editor/ico_map.gif) 0 4px no-repeat}
+#naver_common_editor td.attach li.media{padding-top:4px;background:url(http://imgmovie.naver.net/2007/img/editor/ico_attach_media.gif) 0 5px no-repeat}
+#naver_common_editor td.attach li.music{padding-top:4px;background:url(http://imgmovie.naver.net/2007/img/editor/ico_attach_music.gif) 0 2px no-repeat}
+#naver_common_editor td.attach li.toon{padding-top:4px;background:url(http://imgmovie.naver.net/2007/img/editor/ico_attach_toon.gif) 0 3px no-repeat}
+#naver_common_editor td.attach li.picture{padding-top:4px;background:url(http://imgmovie.naver.net/2007/img/editor/ico_attach_picture.gif) 0 3px no-repeat}
+#naver_common_editor td.attach li.photo a,#edit_module td.attach li.avi a,#edit_module td.attach li.map a{font-weight:bold;letter-spacing:-1px;color:#222}
+#naver_common_editor td.attach li a{padding-left:18px;color:#000;display:block}
+*html #naver_common_editor td.attach li a{width:100%;padding-left:18px;color:#000;display:block}
+#naver_common_editor td.attach li a:hover{color:#004790}
+#naver_common_editor td.attach ul.db{margin:9px 0 0 11px;background:0}
+#naver_common_editor td.attach ul.db li{margin:0 7px 7px 0;padding:0}
+#naver_common_editor td.attach ul.db li a{padding:0;color:#444}
+#naver_common_editor td.attach ul.db li a:hover{color:#004790}
+#naver_common_editor .size_more{height:10px;font-size:0}
+#naver_common_editor .size_more div{height:10px;padding:0;background:url(http://imgmovie.naver.net/2007/img/editor/bg_sizemore.gif) repeat-x;text-align:center;cursor:n-resize}
+#naver_common_editor .size_more img{margin-top:2px}
